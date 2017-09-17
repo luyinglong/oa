@@ -3,4 +3,4 @@ eeeeeeeeeee
 fffffffffffffff
 gggggggg
 select * from book;
-
+delete from book;
