@@ -2,3 +2,5 @@ dddddddddd
 eeeeeeeeeee
 fffffffffffffff
 gggggggg
+select * from book;
+
