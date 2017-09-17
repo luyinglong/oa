@@ -4,3 +4,5 @@ fffffffffffffff
 gggggggg
 select * from book;
 dev
+delete from book;
+
